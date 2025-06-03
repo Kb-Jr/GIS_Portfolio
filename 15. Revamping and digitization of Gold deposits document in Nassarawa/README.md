@@ -10,5 +10,5 @@
 - Map embellishment 
 
 ## Data 
-- Existing hard copy lay-out
+- Existing hard copy layout
 - Co-ordinates
