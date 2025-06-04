@@ -1,4 +1,5 @@
 # Summary of Project
+A temporal landcover assessment of a coastal region in Gambia. The focus was on Tanji reserve and Bijol islands, to assess the changes in wetland coverage and other surface types.
 
 ## Tools deployed
 - ArcGIS
@@ -14,3 +15,4 @@
 ## Data 
 - Landsat OLI 
 - Administrative boundary
+- Protected areas boundary (protected planet website)

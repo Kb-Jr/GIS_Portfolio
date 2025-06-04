@@ -1,5 +1,5 @@
 # Summary of Project
-
+- Area of interest was Durban region of South Africa. Samples were taken at different locations for research purposes and needed to be geo-coded and mapped.
 ## Tools deployed
 - ArcGIS
 
